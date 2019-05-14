@@ -1,0 +1,272 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "chtvLotOLaj+4wM2LTPEdtv5nYM=",
+			"path": "github.com/NebulousLabs/Sia/build",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VLf3Yh+EH3+CNDA1486xQLkp9rE=",
+			"path": "github.com/NebulousLabs/Sia/crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "xh7j4ystq36yHlvlxRGYkRSuXsQ=",
+			"path": "github.com/NebulousLabs/Sia/encoding",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "yGa75VyJCRJ2jxbZQpYrn+Wqvis=",
+			"path": "github.com/NebulousLabs/Sia/types",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "EDr3Ou14mAd1g2X1AL1NAh8t6zw=",
+			"path": "github.com/NebulousLabs/fastrand",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "kbxxKg0mDEQhfrnVaHyMEWsTI4U=",
+			"path": "github.com/NebulousLabs/merkletree",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "LLVyR2dAgkihu0+HdZF+JK0gMMs=",
+			"path": "github.com/agl/ed25519",
+			"revision": "5312a61534124124185d41f09206b9fef1d88403",
+			"revisionTime": "2017-01-16T20:05:12Z"
+		},
+		{
+			"checksumSHA1": "30PBqj9BW03KCVqASvLg3bR+xYc=",
+			"path": "github.com/agl/ed25519/edwards25519",
+			"revision": "5312a61534124124185d41f09206b9fef1d88403",
+			"revisionTime": "2017-01-16T20:05:12Z"
+		},
+		{
+			"checksumSHA1": "Xx0KunWR3aL40R7it9pSxgniOKA=",
+			"path": "github.com/blackkeyboard/zgenerate/base58",
+			"revision": "2035a727dbd6494386274a342e6837508fa73835",
+			"revisionTime": "2016-11-03T02:41:08Z"
+		},
+		{
+			"checksumSHA1": "8D60uhOvGzOxthqXG2H8CVm1O/4=",
+			"path": "github.com/btcsuite/btcd/btcec",
+			"revision": "f5e261fc9ec3437697fb31d8b38453c293204b29",
+			"revisionTime": "2018-08-01T23:43:05Z"
+		},
+		{
+			"checksumSHA1": "wB5yJMpoju/0eCGIFslLvXNd1WU=",
+			"path": "github.com/btcsuite/btcd/chaincfg",
+			"revision": "f5e261fc9ec3437697fb31d8b38453c293204b29",
+			"revisionTime": "2018-08-01T23:43:05Z"
+		},
+		{
+			"checksumSHA1": "hI5NhyOyOaazvlK8vWFFsPVEPiM=",
+			"path": "github.com/btcsuite/btcd/chaincfg/chainhash",
+			"revision": "f5e261fc9ec3437697fb31d8b38453c293204b29",
+			"revisionTime": "2018-08-01T23:43:05Z"
+		},
+		{
+			"checksumSHA1": "uRvUrZlFjKlocmsf98inMItrRqA=",
+			"path": "github.com/btcsuite/btcd/wire",
+			"revision": "f5e261fc9ec3437697fb31d8b38453c293204b29",
+			"revisionTime": "2018-08-01T23:43:05Z"
+		},
+		{
+			"checksumSHA1": "VmpKkonX8zSyapX+9hUWbCk4+kc=",
+			"path": "github.com/btcsuite/btcutil",
+			"revision": "ab6388e0c60ae4834a1f57511e20c17b5f78be4b",
+			"revisionTime": "2018-07-06T23:06:48Z"
+		},
+		{
+			"checksumSHA1": "oQgLy8KmIOVov04WXH7KgU1bszc=",
+			"path": "github.com/btcsuite/btcutil/base58",
+			"revision": "ab6388e0c60ae4834a1f57511e20c17b5f78be4b",
+			"revisionTime": "2018-07-06T23:06:48Z"
+		},
+		{
+			"checksumSHA1": "BBnsAiKyNfocRwmEav5EJpVCwzk=",
+			"path": "github.com/btcsuite/btcutil/bech32",
+			"revision": "ab6388e0c60ae4834a1f57511e20c17b5f78be4b",
+			"revisionTime": "2018-07-06T23:06:48Z"
+		},
+		{
+			"checksumSHA1": "dvabztWVQX8f6oMLRyv4dLH+TGY=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"revisionTime": "2018-05-06T18:05:49Z"
+		},
+		{
+			"checksumSHA1": "Q5YN3JDk0g8zt0gZulGLn+uFC30=",
+			"path": "github.com/dchest/blake256",
+			"revision": "dee3fe6eb0e98dc774a94fc231f85baf7c29d360",
+			"revisionTime": "2015-09-03T10:16:04Z"
+		},
+		{
+			"checksumSHA1": "7PyTYx0OZvK9VY8zINlbpJQlxSE=",
+			"path": "github.com/decred/base58",
+			"revision": "56c501706f00d9e1cfacee19a27117e12da24734",
+			"revisionTime": "2018-03-02T00:29:22Z"
+		},
+		{
+			"checksumSHA1": "3KjZJdKgLv+SPs5Rs3btsuPbQv0=",
+			"path": "github.com/decred/dcrd/chaincfg",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "pgzU0AMIsOHVZUpFQwtaod8xmDU=",
+			"path": "github.com/decred/dcrd/chaincfg/chainec",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "IHQs0dLVR66UlPS1mgq0GOXEzF8=",
+			"path": "github.com/decred/dcrd/chaincfg/chainhash",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "YcxLBa9KlhkvZ/FfpdlssmXZWUU=",
+			"path": "github.com/decred/dcrd/dcrec",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "zSSMNBraYHt/p23kIHnKu5O+l3U=",
+			"path": "github.com/decred/dcrd/dcrec/edwards",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "BIV9lrHsuUa9HQ2goW/UVRCYd7U=",
+			"path": "github.com/decred/dcrd/dcrec/secp256k1",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "Co410s1NB05+8QohSVqKMPGWlwU=",
+			"path": "github.com/decred/dcrd/dcrec/secp256k1/schnorr",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "ZuG6AO+NYGExNWdzheAoqkCLFxM=",
+			"path": "github.com/decred/dcrd/dcrutil",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "pZr7nRI997ATHDmE32drDUNCGZs=",
+			"path": "github.com/decred/dcrd/wire",
+			"revision": "56f1981127f5d65c82b6ff6eb4d73b010994dd5b",
+			"revisionTime": "2018-08-28T19:06:23Z"
+		},
+		{
+			"checksumSHA1": "/7Z4Okg8hv2yqFVbPi/dfg9H99k=",
+			"path": "github.com/ethereum/go-ethereum/common",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2EkKilu0Q1uuX7XoHks8qnW/LXo=",
+			"path": "github.com/ethereum/go-ethereum/common/hexutil",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "BP3m/oEeoC9ustdCYzAVS/gabqg=",
+			"path": "github.com/ethereum/go-ethereum/common/math",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "AkqhNZ5tkVy0WiJpzNDxeZUtvMw=",
+			"path": "github.com/ethereum/go-ethereum/crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "1DMo2GrvGeZLJZGT6AramQp3fbM=",
+			"path": "github.com/ethereum/go-ethereum/crypto/secp256k1",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pQzUVRi0z/3Z4FpRyExSg1ROLSA=",
+			"path": "github.com/ethereum/go-ethereum/crypto/sha3",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "z90HAmaR1d3Q71bT3FfCb38aPbw=",
+			"path": "github.com/ethereum/go-ethereum/rlp",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"revisionTime": "2018-05-06T18:05:49Z"
+		},
+		{
+			"checksumSHA1": "HpD7sUukv2S5JSbVyIXQatck9c0=",
+			"path": "github.com/savardiego/cashline/address/cash",
+			"revision": "119793e1b98964c3c8fabc9702c43ffac8ab7c4a",
+			"revisionTime": "2018-08-19T17:53:01Z"
+		},
+		{
+			"checksumSHA1": "XuIFqV4ftyWkcADgKhuHabxb6qM=",
+			"path": "github.com/savardiego/cashline/address/keys",
+			"revision": "119793e1b98964c3c8fabc9702c43ffac8ab7c4a",
+			"revisionTime": "2018-08-19T17:53:01Z"
+		},
+		{
+			"checksumSHA1": "c6pbpF7eowwO59phRTpF8cQ80Z0=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"revisionTime": "2018-05-06T18:05:49Z"
+		},
+		{
+			"checksumSHA1": "wnEANt4k5X/KGwoFyfSSnpxULm4=",
+			"path": "github.com/stretchr/testify/require",
+			"revision": "f35b8ab0b5a2cef36673838d662e249dd9c94686",
+			"revisionTime": "2018-05-06T18:05:49Z"
+		},
+		{
+			"checksumSHA1": "ejjxT0+wDWWncfh0Rt3lSH4IbXQ=",
+			"path": "golang.org/x/crypto/blake2b",
+			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
+			"revisionTime": "2018-07-23T15:26:11Z"
+		},
+		{
+			"checksumSHA1": "2LpxYGSf068307b7bhAuVjvzLLc=",
+			"path": "golang.org/x/crypto/ed25519",
+			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
+			"revisionTime": "2018-07-23T15:26:11Z"
+		},
+		{
+			"checksumSHA1": "0JTAFXPkankmWcZGQJGScLDiaN8=",
+			"path": "golang.org/x/crypto/ed25519/internal/edwards25519",
+			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
+			"revisionTime": "2018-07-23T15:26:11Z"
+		},
+		{
+			"checksumSHA1": "TQoVgHqUD72/5ALzi9p5W3oyaug=",
+			"path": "golang.org/x/crypto/ripemd160",
+			"revision": "c126467f60eb25f8f27e5a981f32a87e3965053f",
+			"revisionTime": "2018-07-23T15:26:11Z"
+		},
+		{
+			"checksumSHA1": "GRDX508ZNSjrly80GO+ckI6kztA=",
+			"origin": "github.com/NebulousLabs/Sia/vendor/golang.org/x/crypto/twofish",
+			"path": "golang.org/x/crypto/twofish",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "REkmyB368pIiip76LiqMLspgCRk=",
+			"path": "golang.org/x/sys/cpu",
+			"revision": "1c9583448a9c3aa0f9a6a5241bf73c0bd8aafded",
+			"revisionTime": "2018-08-15T07:37:39Z"
+		}
+	],
+	"rootPath": "transform"
+}
